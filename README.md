@@ -113,6 +113,7 @@ Priority bands include:
 - High Conversion Potential
 - Medium Conversion Potential
 - Low Conversion Potential
+- 
 [Conversion potential represents the likelihood of a customer positively responding to outbound financial services campaigns through reinvestment, retention, product continuation, transfer, or upgrade activities.]
 
 ---
