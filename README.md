@@ -134,7 +134,6 @@ This simulates a real-world outbound campaign scoring and customer propensity mo
 
 # Project Structure
 
-```text
 Campaign-Conversion-Prediction-Model/
 │
 ├── data/
