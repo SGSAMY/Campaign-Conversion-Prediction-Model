@@ -140,3 +140,15 @@ Campaign-Conversion-Prediction-Model/
 ├── notebooks/
 ├── output/
 ├── scripts/
+
+#  Example Business Use Cases
+
+* Outbound marketing prioritisation
+*  Campaign conversion prediction
+*  Customer propensity modelling
+*  Marketing ROI optimisation
+*  Next-best-action targeting
+*  Financial services customer analytics
+
+# Author
+Satheesh Gurusamy
