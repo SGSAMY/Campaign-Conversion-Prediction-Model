@@ -142,6 +142,8 @@ Campaign-Conversion-Prediction-Model/
 ├── output/
 ├── scripts/
 
+---
+
 #  Example Business Use Cases
 
 * Outbound marketing prioritisation
@@ -150,6 +152,8 @@ Campaign-Conversion-Prediction-Model/
 *  Marketing ROI optimisation
 *  Next-best-action targeting
 *  Financial services customer analytics
+
+---
 
 # Author
 Satheesh Gurusamy
