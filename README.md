@@ -147,12 +147,6 @@ Campaign-Conversion-Prediction-Model/
 
 ---
 
-## Business Value
-
-This project demonstrates how machine learning and behavioural analytics can be applied to improve campaign targeting, customer prioritisation, and marketing conversion performance.
-
-The solution supports data-driven outbound marketing strategies by identifying customers with the highest likelihood of conversion, helping organisations optimise campaign efficiency and improve ROI.
-
 #  Example Business Use Cases
 
 * Outbound marketing prioritisation
@@ -161,6 +155,14 @@ The solution supports data-driven outbound marketing strategies by identifying c
 *  Marketing ROI optimisation
 *  Next-best-action targeting
 *  Financial services customer analytics
+
+---
+
+## Business Value
+
+This project demonstrates how machine learning and behavioural analytics can be applied to improve campaign targeting, customer prioritisation, and marketing conversion performance.
+
+The solution supports data-driven outbound marketing strategies by identifying customers with the highest likelihood of conversion, helping organisations optimise campaign efficiency and improve ROI.
 
 ---
 
