@@ -88,18 +88,6 @@ The model uses several customer behavioural and financial indicators including:
 
 ---
 
-# Machine Learning Pipeline
-
-The model uses Scikit-learn Pipeline and ColumnTransformer for automated preprocessing:
-
-- Numeric features scaled using StandardScaler
-- Categorical features encoded using OneHotEncoder
-- Logistic Regression used for conversion prediction
-
-The pipeline automates preprocessing and prediction workflows in a reusable and production-style architecture.
-
----
-
 ## Preprocessing Pipeline
 
 The model uses Scikit-learn Pipeline and ColumnTransformer for automated preprocessing:
