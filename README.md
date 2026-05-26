@@ -141,6 +141,7 @@ Campaign-Conversion-Prediction-Model/
 ├── notebooks/
 ├── output/
 ├── scripts/
+├── requirements.txt
 └── README.md
 ```
 
