@@ -26,7 +26,7 @@ The objective of this project is to identify customers most likely to convert du
 - Email response behaviour
 - Customer demographics
 - CACI Fresco-style segmentation
-- 
+
 The model supports targeted campaign decision-making and customer prioritisation.
 
 ---
