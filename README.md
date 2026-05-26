@@ -100,7 +100,7 @@ The pipeline automates preprocessing and prediction workflows in a reusable and 
 
 ---
 
-# Model Output
+# Model Outputs
 
 The model generates:
 
@@ -134,6 +134,7 @@ This simulates a real-world outbound campaign scoring and customer propensity mo
 
 # Project Structure
 
+```text
 Campaign-Conversion-Prediction-Model/
 │
 ├── data/
@@ -141,8 +142,16 @@ Campaign-Conversion-Prediction-Model/
 ├── notebooks/
 ├── output/
 ├── scripts/
+└── README.md
+```
 
 ---
+
+## Business Value
+
+This project demonstrates how machine learning and behavioural analytics can be applied to improve campaign targeting, customer prioritisation, and marketing conversion performance.
+
+The solution supports data-driven outbound marketing strategies by identifying customers with the highest likelihood of conversion, helping organisations optimise campaign efficiency and improve ROI.
 
 #  Example Business Use Cases
 
