@@ -19,15 +19,15 @@ The solution predicts future customer conversion probability, prioritises campai
 
 The objective of this project is to identify customers most likely to convert during outbound marketing campaigns by analysing:
 
-- Customer engagement behaviour
+- Customer engagement patterns
 - Financial product maturity
 - Direct Debit activity
 - Website engagement
 - Email response behaviour
 - Customer demographics
 - CACI Fresco-style segmentation
-
-The model helps marketing teams prioritise customers and improve campaign ROI.
+- 
+The model supports targeted campaign decision-making and customer prioritisation.
 
 ---
 
@@ -40,7 +40,6 @@ The model helps marketing teams prioritise customers and improve campaign ROI.
 - Jupyter Notebook
 - Joblib
 - Logistic Regression
-- Machine Learning Pipelines
 
 ---
 
@@ -88,7 +87,7 @@ The model uses several customer behavioural and financial indicators including:
 
 ---
 
-## Preprocessing Pipeline
+## Machine Learning Pipelines
 
 The model uses Scikit-learn Pipeline and ColumnTransformer for automated preprocessing:
 
